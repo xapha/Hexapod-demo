@@ -7,9 +7,8 @@ This repo. is dedicated to the hexapod personal project used for skill show off 
 ## Intro :
 
 The objectives of the platform are:
-- Low building cost
 - Fully 3D printed
-- Only low cost digital servos
+- Only low cost digital servos (18 used in this prototype)
 
 Tools used to create the prototype:
 - Fusion 360
