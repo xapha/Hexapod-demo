@@ -2,6 +2,8 @@
 
 This repo. is dedicated to the hexapod personal project used for skill show off and demonstration.
 
+![alt text](https://github.com/xapha/Hexapod-demo/blob/main/hexapod%20full%20view.PNG "intro figure")
+
 ## Intro :
 
 The objectives of the platform are:
