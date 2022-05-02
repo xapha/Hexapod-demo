@@ -20,7 +20,8 @@ Machinery:
 
 ## Materials:
 
-- Motion video (remote contraolled) : https://www.youtube.com/watch?v=dWkvSa4oxTY&t=2s
+- Motion video (remote contraolled) : 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dWkvSa4oxTY/0.jpg)](https://www.youtube.com/watch?v=dWkvSa4oxTY)
 - 3D model reference in repo files
 
 ## Robot capabilities:
