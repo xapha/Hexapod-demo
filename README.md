@@ -22,3 +22,10 @@ Machinery:
 
 - Motion video (remote contraolled) : https://www.youtube.com/watch?v=dWkvSa4oxTY&t=2s
 - 3D model reference in repo files
+
+## Robot capabilities:
+- Motion : Wave motion (5 legs in contact with the ground at the same time), Ripple motion (4 legs in contact with the ground ath the same time), Tripod motion (3legs in contact with the ground at the same time)
+- Elevation variation : can change its base elevation to adapt to the terrain while moving
+- Orientation control : use IMU data to specifiy each legs height to keep the same orientation while moving
+- Indirect detection : void, obstacle : use IMU data to detect the lack of surface to walk on and obstacle through signal processing
+- Mapping : map the environement based on previous location and motion: Obviously this is drifting a lot since no loop closure system is used.
