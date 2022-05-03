@@ -1,6 +1,6 @@
 # Hexapod-demo
 
-This repo. is dedicated to the hexapod personal project used for skill show off and demonstration.
+This repo. is dedicated to the hexapod personal project used for demonstration.
 
 ![alt text](https://github.com/xapha/Hexapod-demo/blob/main/hexapod.png "intro figure")
 
